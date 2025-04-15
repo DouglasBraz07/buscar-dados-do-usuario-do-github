@@ -1,0 +1,20 @@
+.container .profile-data .event {
+    background-color: rgb(211, 208, 208);
+    padding: 30px 35px;
+}
+
+.container .profile-data .event h2 {
+    margin-bottom: 25px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.container .profile-data .event ul li{
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+
+.container .profile-data .event ul li span{
+    font-size: 18px;
+    font-weight: 700;
+}
