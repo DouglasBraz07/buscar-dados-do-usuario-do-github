@@ -1,4 +1,4 @@
-import { baseUrl } from '../src/js/variables.js'
+import { baseUrl } from '../variables.js'
 
 async function getEvents(userName) {
     const response = await fetch(`${baseUrl}/${userName}/events?per_page=10`)
