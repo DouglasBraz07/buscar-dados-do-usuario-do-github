@@ -6,5 +6,3 @@ async function getUser(userName) {
 };
 
 export { getUser }
-
-console.log()

@@ -22,5 +22,4 @@ const user = {
         this.events = events
     }   
 }
-console.log(user)
 export { user }
